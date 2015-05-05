@@ -1,1 +1,6 @@
-@charset "Shift_JIS"
+@charset "Shift_JIS";
+
+
+h1 {
+	color: red;
+}
